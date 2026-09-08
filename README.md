@@ -2,6 +2,8 @@
 
 Product manager in Belfast, working on regulated ECG software. Engineering background, not a developer by trade. Most of what's here was built with Claude Code to scratch a real itch, and then tidied up enough that someone else could use it.
 
+Find me on [LinkedIn](https://www.linkedin.com/in/mark-lilburn-a0996615b).
+
 The thread running through it: write a clear spec, let a deterministic script do the counting, let the model do the judgement, and keep the two apart so the numbers can't drift. Morning-review and claude-reflect are both built that way.
 
 ## Tools for Claude Code
